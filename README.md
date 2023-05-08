@@ -1,7 +1,7 @@
 # Проекты Яндекс.Практикум
 Данный репозиторий содержит учебные проекты, выполненные в рамках курса "Аналитик данных" на платформе Яндекс.Практикум
 ## Основные инструменты и навыки:
-- **Python** (pandas, numpy, scipy, statsmodels, matplotlib, seaborn, dash, folium)
+- **Python** (pandas, numpy, math, scipy, statsmodels, plotly, matplotlib, seaborn, dash, folium)
 - **SQL**
 - Работа с гипотезами 
 - А/В-тестирование
